@@ -25,7 +25,9 @@ Hospitality Analytics helps hotels analyze bookings, revenue, occupancy, and can
   ![Tableau](https://github.com/deepuhacker26/Hospitality-Analytics/blob/main/Tableau%201.png)
   ![Tableau](https://github.com/deepuhacker26/Hospitality-Analytics/blob/main/Tableau%202.png)
 ### Power BI Dashboard
-  ![Power BI]()
+  ![Power BI](https://github.com/deepuhacker26/Hospitality-Analytics/blob/main/power%20BI%201.png)
+  ![Power BI](https://github.com/deepuhacker26/Hospitality-Analytics/blob/main/power%20BI%202.png)
+  ![Power BI](https://github.com/deepuhacker26/Hospitality-Analytics/blob/main/power%20BI%203.png)
 ## Insights
 - Top Performing City: Mumbai (₹668.64M revenue)
 - Highest Revenue Class: Elite (₹560.27M)
